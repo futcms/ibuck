@@ -9,7 +9,7 @@ pkg install php
 
 pkg install git
 
-cd git clone https://github.com/futcms/ibuck/
+git clone https://github.com/futcms/ibuck.git
 
 cd ibuck
 
