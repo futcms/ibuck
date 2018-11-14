@@ -1,4 +1,5 @@
-# App Ibuck https://play.google.com/store/apps/details?id=com.app.ibucks
+#App Ibuck https://play.google.com/store/apps/details?id=com.app.ibucks
+
 Nuyul Ibuck Spin
 
 Tutor Nuyul
@@ -8,6 +9,8 @@ Cara pakai install termux ketik
 pkg install php
 
 pkg install git
+
+cd /storage/emulated/0
 
 git clone https://github.com/futcms/ibuck.git
 
@@ -19,6 +22,6 @@ Isi USERNAME:
 
 JUMLAH:
 
-JEDA DETIK:      Saran 10 detik agar aman
+JEDA DETIK:  Terserah Lo Berapa Detik :v 0 Detik Lebih Cepat
 
 Source code by :Mafut
